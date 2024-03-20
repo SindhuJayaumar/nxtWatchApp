@@ -1,0 +1,14 @@
+.close {
+  cursor: pointer;
+}
+.search {
+  width: 50px;
+  height: 30px;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
